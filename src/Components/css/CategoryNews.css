@@ -1,0 +1,18 @@
+.news-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Creates two equal-width columns */
+    gap: 20px; /* Adds some space between items */
+  }
+  
+  .news-article {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+  }
+
+  .Read_More_Btn{
+    color:blue;
+    margin-left: auto;
+    text-align: right;
+  }
+  
